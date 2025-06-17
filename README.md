@@ -22,7 +22,7 @@ housing_regression/
 
 ### 🔹 Pairplot
 
-![Pairplot](images/pairplot.png)
+![Pairplot](pairplot.png)
 
 ### 🔹 Correlation Heatmap
 

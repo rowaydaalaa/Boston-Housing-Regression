@@ -42,18 +42,18 @@ housing_regression/
 
 ### 🔸 Linear Regression
 
-- **MSE**: ...
-- **MAE**: ...
-- **R² Score**: ...
+- **MSE**: 27.417379696005614
+- **MAE**: 3.26875064904469
+- **R² Score**: 0.6261289338357807
 
 ![Linear](images/actual_vs_predicted_linear.png)
 ![Residuals Linear](images/residuals_linear.png)
 
 ### 🔸 Polynomial Regression (degree=2)
 
-- **MSE**: ...
-- **MAE**: ...
-- **R² Score**: ...
+- **MSE**: 14.596025620944225
+- **MAE**: 2.39643191202125
+- **R² Score**: 0.8009645078717095
 
 ![Poly](images/actual_vs_predicted_poly.png)
 ![Residuals Poly](images/residuals_poly.png)
@@ -71,7 +71,7 @@ housing_regression/
 ## 💾 Models Saved
 
 - `Linear_model.pkl`
-- `polynomial.pkl`
+- `polynomial_model.pkl`
 
 You can load them using `joblib` to make predictions on new data.
 

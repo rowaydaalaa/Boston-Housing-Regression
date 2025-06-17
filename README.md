@@ -26,15 +26,15 @@ housing_regression/
 
 ### 🔹 Correlation Heatmap
 
-![Heatmap](images/correlation_heatmap.png)
+![Heatmap](correlation_heatmap.png)
 
 ### 🔹 RM vs MEDV
 
-![RM vs MEDV](images/rm_vs_medv.png)
+![RM vs MEDV](rm_vs_medv.png)
 
 ### 🔹 LSTAT vs MEDV
 
-![LSTAT vs MEDV](images/lstat_vs_medv.png)
+![LSTAT vs MEDV](lstat_vs_medv.png)
 
 ---
 
@@ -46,8 +46,8 @@ housing_regression/
 - **MAE**: 3.26875064904469
 - **R² Score**: 0.6261289338357807
 
-![Linear](images/actual_vs_predicted_linear.png)
-![Residuals Linear](images/residuals_linear.png)
+![Linear](actual_vs_predicted_linear.png)
+![Residuals Linear](residuals_linear.png)
 
 ### 🔸 Polynomial Regression (degree=2)
 
@@ -55,8 +55,8 @@ housing_regression/
 - **MAE**: 2.39643191202125
 - **R² Score**: 0.8009645078717095
 
-![Poly](images/actual_vs_predicted_poly.png)
-![Residuals Poly](images/residuals_poly.png)
+![Poly](actual_vs_predicted_poly.png)
+![Residuals Poly](residuals_poly.png)
 
 ---
 

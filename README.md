@@ -60,6 +60,12 @@ housing_regression/
 
 ---
 
+## 🔸Comparison: Linear vs Polynomial Predictions
+This plot shows how both models perform when predicting housing prices.
+
+![Linear vs Polynomial](comparison_linear_vs_poly.png)
+---
+
 ## 🧠 Insights
 
 - Polynomial regression captured some non-linear relationships better than linear.
